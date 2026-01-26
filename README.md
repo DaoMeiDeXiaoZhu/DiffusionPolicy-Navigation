@@ -2,11 +2,12 @@
 
 该项目是我自己搭建的一个导航，该模型以幻尔的 ROS2 小车为真实载体，从固定起点到固定终点的整个过程中，每 0.1s 收集一次专家经验（图像+雷达+速度话题消息），每隔一定的回合，环境会有小范围变化并不是一成不变的。该项目我们从 专家经验收集 -> 网络训练 -> 真机部署 介绍完整的流程，整个项目的文件结果如下所示：
 
-<img width="2026" height="430" alt="yuque_diagram (1)" src="https://github.com/user-attachments/assets/a0bd08bf-2de2-4122-9c4c-a9b05319b2f3" />
+<img width="2192" height="430" alt="yuque_diagram (2)" src="https://github.com/user-attachments/assets/eff235a8-b827-4385-92fc-5aa6579628bf" />
+
 
 **文件说明：**
 
-<img width="1259" height="610" alt="image" src="https://github.com/user-attachments/assets/f6f4bb5c-e010-43c3-9ec5-4e773a4ff241" />
+<img width="1257" height="728" alt="image" src="https://github.com/user-attachments/assets/b1625011-a9d4-43de-810d-1e0d248ca992" />
 
 
 **算法流程：**
