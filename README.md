@@ -6,7 +6,8 @@
 
 **文件说明：**
 
-<img width="1754" height="487" alt="image" src="https://github.com/user-attachments/assets/b6cf4313-7ad6-4ddb-8734-b9330ea3b4f7" />
+<img width="1259" height="610" alt="image" src="https://github.com/user-attachments/assets/f6f4bb5c-e010-43c3-9ec5-4e773a4ff241" />
+
 
 **算法流程：**
 
@@ -17,7 +18,3 @@
 1. 连接ROS2小车，通过ros2 topic list 查看话题是否存在，如果存在则运行程序collect_expert_experience/collect_data.py
 2. 收集完数据后运行程序train_diffusion_policy/train.py
 3. 训练完成后连接小车运行程序reality_run.py
-
-
-\( x_0 \)
-
