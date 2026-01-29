@@ -20,3 +20,6 @@
 1. 连接ROS2小车，通过ros2 topic list 查看话题是否存在，如果存在则运行程序collect_expert_experience/collect_data.py
 2. 收集完数据后运行程序train_diffusion_policy/train.py
 3. 训练完成后连接小车运行程序reality_run.py
+
+**专家经验收集：**
+
