@@ -7,7 +7,8 @@
 
 **文件说明：**
 
-<img width="1257" height="728" alt="image" src="https://github.com/user-attachments/assets/b1625011-a9d4-43de-810d-1e0d248ca992" />
+<img width="1520" height="1086" alt="image" src="https://github.com/user-attachments/assets/92dc6d3e-b585-47ed-bdf7-f0a528e35688" />
+
 
 
 **算法流程：**
